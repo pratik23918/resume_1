@@ -1,0 +1,53 @@
+body{
+    line-height: 1;
+    border:  solid black;
+    background-color:azure;
+    padding: 5%;
+    margin: 5%;
+}
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+    margin-top: 0%;
+}
+/* #name{
+    padding-top: 1%;
+} */
+
+.ex{
+    text-decoration: underline;
+    color:blueviolet;
+}
+#experience{
+    text-align:center;
+    color: blue;
+    /* text-decoration: solid; */
+    margin-top: 0%;
+}
+#certifiction{
+  text-align: center;
+  color: blue;
+  text-decoration: solid;
+  margin-top: 0%;
+}
+#eduaction{
+    text-align: center;
+    color: blue;
+    margin-top: 0%;
+}
+#hobbies{
+    text-align: center;
+    color: blue;
+    margin-top: 0%;
+}
+#address{
+    text-align: center;
+    color: blue;
+    margin-top: 0%;
+}
+.imp{
+    text-decoration: underline;
+    color:blueviolet
+}
+
